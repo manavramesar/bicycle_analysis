@@ -1,0 +1,13 @@
+1. Total Number of Rides: 1000000
+2. Latest ride date and time: 2024-01-01 12:01:59
+3. Number of clients by users:
+  Member: 814 572
+  Casual: 185 428
+4. Average ride times by users:
+  Member: 12.13 minutes
+  Casual: 24.15 minues
+5. Most popular start station: W 21 St & 6 Ave with 4045 rides.
+6. Most popular end station: W 21 St & 6 Ave with 3997 rides.
+7. Most common route starting and ending at Central Park S & 6 Ave with 396 rides.
+8. Longest ride: 281 hours. 
+9. 17:00-18:00 is the most popular ride time with 91 176 rides tacking place then.
